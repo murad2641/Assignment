@@ -1,0 +1,19 @@
+body
+{
+background-color: darkgrey;
+}
+p,h2
+{
+    color: aliceblue;
+    font-size: 19px;
+    font-style: italic;
+}
+h1{
+    color: aliceblue;
+    font-size: 25px;
+}
+table
+{
+    display: flex;
+    justify-content: center;
+}
